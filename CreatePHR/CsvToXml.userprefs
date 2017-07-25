@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CE9692D7-4DF7-4EB7-8F6F-01D445C98F50}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsvToXml/AddNode.cs">
+    <Files>
+      <File FileName="CsvToXml/Program.cs" Line="113" Column="9" />
+      <File FileName="CsvToXml/AddNode.cs" Line="43" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CsvToXml PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

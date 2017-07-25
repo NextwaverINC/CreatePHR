@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{9AB3DC11-18DB-49FC-AE6C-2CB34B5BEE49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddNode.cs">
+    <Files>
+      <File FileName="CreatePHRXml.cs" Line="25" Column="14" />
+      <File FileName="Program.cs" Line="79" Column="4" />
+      <File FileName="AddNode.cs" Line="49" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CsvToXml PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
